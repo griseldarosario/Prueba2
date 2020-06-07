@@ -1,0 +1,16 @@
+{
+"companyName": "UPIIH",
+"productName": "Galaxy Shooter",
+"productVersion": "0.1",
+"dataUrl": "Prueba2.data.unityweb",
+"wasmCodeUrl": "Prueba2.wasm.code.unityweb",
+"wasmFrameworkUrl": "Prueba2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0f6"
+}
